@@ -14,7 +14,7 @@ class Person:
         return self.population
 
 
-# TODO после выполнения задания попробуйте
+
 # сделать экземпляр класса person и вызвать новые методы.
 
 person = Person(220000, 23)
